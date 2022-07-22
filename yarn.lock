@@ -4296,10 +4296,10 @@
   resolved "https://registry.yarnpkg.com/@types/hammerjs/-/hammerjs-2.0.41.tgz#f6ecf57d1b12d2befcce00e928a6a097c22980aa"
   integrity sha512-ewXv/ceBaJprikMcxCmWU1FKyMAQ2X7a9Gtmzw8fcg2kIePI1crERDM818W+XYrxqdBBOdlf2rm137bU+BltCA==
 
-"@types/hapi__joi@16.0.12":
-  version "16.0.12"
-  resolved "https://registry.yarnpkg.com/@types/hapi__joi/-/hapi__joi-16.0.12.tgz#fb9113f17cf5764d6b3586ae9817d1606cc7c90c"
-  integrity sha512-xJYifuz59jXdWY5JMS15uvA3ycS3nQYOGqoIIE0+fwQ0qI3/4CxBc6RHsOTp6wk9M0NWEdpcTl02lOQOKMifbQ==
+"@types/hapi__joi@17.1.8":
+  version "17.1.8"
+  resolved "https://registry.yarnpkg.com/@types/hapi__joi/-/hapi__joi-17.1.8.tgz#78b3d22c4c9e62709894abd8c664508051f29e6b"
+  integrity sha512-omVytnOAiAfzGUOQArujJr3heWxPrDHW7MF1ieqix1ngoGdhtJmSSDFVM+ZAOa7UmhlGJtltdgUAT03mfDu6kg==
 
 "@types/history@^4.7.5":
   version "4.7.11"
@@ -25635,10 +25635,8 @@ watchpack@^1.7.4:
   resolved "https://registry.yarnpkg.com/watchpack/-/watchpack-1.7.5.tgz#1267e6c55e0b9b5be44c2023aed5437a2c26c453"
   integrity sha512-9P3MWk6SrKjHsGkLT2KHXdQ/9SNkyoJbabxnKOoJepsvJjJG8uYTR3yTPxPQvNDI3w4Nz1xnE0TLHK4RIVe/MQ==
   dependencies:
-    chokidar "^3.4.1"
     graceful-fs "^4.1.2"
     neo-async "^2.5.0"
-    watchpack-chokidar2 "^2.0.1"
   optionalDependencies:
     chokidar "^3.4.1"
     watchpack-chokidar2 "^2.0.1"
