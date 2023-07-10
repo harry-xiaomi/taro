@@ -21,7 +21,7 @@
     "tsc": "tsc"
   },
   "dependencies": {
-    "@babel/runtime": "^7.14.5",
+    "@babel/runtime": "^7.22.6",
     "@tarojs/runtime": "workspace:*",
     "@tarojs/taro": "workspace:*",
     "lodash": "^4.17.21"
