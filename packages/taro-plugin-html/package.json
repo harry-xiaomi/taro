@@ -27,7 +27,7 @@
   },
   "homepage": "https://github.com/NervJS/taro#readme",
   "dependencies": {
-    "@babel/parser": "^7.20.0",
+    "@babel/parser": "^7.22.7",
     "@tarojs/runtime": "workspace:*",
     "@tarojs/service": "workspace:*",
     "@tarojs/shared": "workspace:*"
