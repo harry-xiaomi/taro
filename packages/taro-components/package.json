@@ -48,7 +48,7 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "@stencil/core": "^2.22.2",
+    "@stencil/core": "^4.0.2",
     "@tarojs/components-advanced": "workspace:*",
     "@tarojs/router": "workspace:*",
     "@tarojs/taro": "workspace:*",
